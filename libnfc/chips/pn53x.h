@@ -29,6 +29,7 @@
  * @brief PN531, PN532 and PN533 common functions
  */
 
+
 #ifndef __NFC_CHIPS_PN53X_H__
 #  define __NFC_CHIPS_PN53X_H__
 
